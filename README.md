@@ -1,12 +1,13 @@
 
-### BI Engineer / Data Analyst  
-### Warsaw 
+### BI Engineer / Data Analyst                                                   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+<div align="center"> 
 
-# <div align="center">I'm Tuna, a Data Enthusiast 👨‍💻 🚀</div>  
+  # I'm Tuna, a Data Enthusiast 👨‍💻 🚀</div>    
+
+
   
 
 - 🔭 I’m currently working on Data Engineering   
