@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm Tuna, a Data Enthusiast 👨‍💻 🚀</div>  
+# <div align="center">I'm Tuna, a Data Enthusiast 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on Data Engineering   
